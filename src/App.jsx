@@ -3,8 +3,13 @@ import "./App.css"
 function App() {
   return (
     <>
-      <h1>👋🏻 Hello World</h1>
-      <h2>venga, va, que te quiero mucho, petardo</h2>
+      <h1>👋🏻 Hello Family</h1>
+      <h2>
+        Acabáis de entrar en mi primera página web. Pero esto es todo, no hace
+        falta que piquéis ni busquéis nada más.
+        <div className="smily">😜</div>
+        P.D. De momento...
+      </h2>
     </>
   )
 }
